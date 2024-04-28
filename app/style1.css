@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(red, yellow);
+    z-index: 15;
+  }
+
+.reportview-container {
+    background: url("i3.jpg")
+}
+
+img{
+    width: 100000;
+    height: 100000;
+    z-index: 0;
+    position: absolute;
+    /* display: flex;
+    align-items: center; */
+}
