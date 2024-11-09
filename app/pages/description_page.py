@@ -10,7 +10,7 @@ import base64
 from st_clickable_images import clickable_images
 import random
 # import google.generativeai as genai
-# genai.configure(api_key="AIzaSyDQL2Q6kgbFTkBNRtobvvGHqEYZEa1tojM")
+# genai.configure(api_key="api-key-goes-here")
 from keyword_filter import search_keywords, extract_keywords
 from streamlit_extras.switch_page_button import switch_page
 
